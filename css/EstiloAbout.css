@@ -5,14 +5,11 @@
 #contenedor{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .img{
     background-color: aqua;
-    padding: 15%;
+    padding: 8rem;
 }
 
-footer{
-    height: 30%;
-    background-color: brown;
-}
